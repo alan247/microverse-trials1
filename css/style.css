@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: 'Raleway', Helvetica, sans-serif;
 }
 
 body {
@@ -25,9 +26,38 @@ body {
   margin-bottom: 15px;
 }
 
-.row-container>label {
+.left-tab {
+  display: inline-block;
   text-align: right;
+  width: 40%;
+  vertical-align: top;
+  padding-right: 10px;
 }
 
+.right-tab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: top;
+}
 
+.right-tab>ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
+.right-tab>textarea {
+  width: 80%;
+}
+
+@media (min-width: 768px) {
+  .right-tab>textarea {
+    width: 280px;
+  }
+}
+
+#submit {
+  display: block;
+  margin: 0 auto;
+}
