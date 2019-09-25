@@ -1,0 +1,13 @@
+body {
+  background-color: #a9d7d1;
+}
+
+#container {
+  margin: 0 auto;
+  width: 80vw;
+  background-color: #fff;
+}
+
+#title {
+  text-align: center;
+}
