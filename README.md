@@ -1,5 +1,5 @@
-# FCC Test Suite Template
+# Microverse Trials Project: Survey Form
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This small project was made by me (Alan Sánchez) and [Eleazar Meza](https://github.com/elshaka) as part of the Microverse admission process.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+You can see it live here: https://alan247.github.io/microverse-trials1/
